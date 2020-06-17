@@ -1,4 +1,4 @@
-# Pascal Based Terminal Menu
+# Interactive Menu
 
 A simple interactive text based menu that can be complied to run in the Windows command line or Linux terminal
 
